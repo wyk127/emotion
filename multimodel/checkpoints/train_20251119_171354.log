@@ -1,0 +1,38 @@
+[2025-11-19 17:13:54,303][INFO] Device: cuda
+[2025-11-19 17:13:54,303][INFO] Loading datasets from F:\code\multimodel\mosi_data_fixed.pkl...
+[2025-11-19 17:13:57,298][INFO] Start Training...
+[2025-11-19 17:13:59,657][INFO] Epoch 1 | LR: 0.000500 | Train Loss: 1.3160 | Val MAE: 1.4725 | Val Acc: 0.4252 | Val F1: 0.2537
+[2025-11-19 17:13:59,658][INFO] Validation loss decreased (inf --> 1.472522).  Saving model ...
+[2025-11-19 17:14:01,678][INFO] Epoch 2 | LR: 0.000500 | Train Loss: 1.3065 | Val MAE: 1.4232 | Val Acc: 0.5093 | Val F1: 0.5082
+[2025-11-19 17:14:01,680][INFO] Validation loss decreased (1.472522 --> 1.423196).  Saving model ...
+[2025-11-19 17:14:03,796][INFO] Epoch 3 | LR: 0.000500 | Train Loss: 1.2318 | Val MAE: 1.3881 | Val Acc: 0.5514 | Val F1: 0.5390
+[2025-11-19 17:14:03,796][INFO] Validation loss decreased (1.423196 --> 1.388140).  Saving model ...
+[2025-11-19 17:14:06,021][INFO] Epoch 4 | LR: 0.000500 | Train Loss: 1.1756 | Val MAE: 1.3968 | Val Acc: 0.5421 | Val F1: 0.5340
+[2025-11-19 17:14:06,022][INFO] EarlyStopping counter: 1 out of 10
+[2025-11-19 17:14:08,176][INFO] Epoch 5 | LR: 0.000500 | Train Loss: 1.1224 | Val MAE: 1.3710 | Val Acc: 0.5654 | Val F1: 0.5571
+[2025-11-19 17:14:08,177][INFO] Validation loss decreased (1.388140 --> 1.370986).  Saving model ...
+[2025-11-19 17:14:10,398][INFO] Epoch 6 | LR: 0.000500 | Train Loss: 1.0839 | Val MAE: 1.3368 | Val Acc: 0.5888 | Val F1: 0.5596
+[2025-11-19 17:14:10,399][INFO] Validation loss decreased (1.370986 --> 1.336805).  Saving model ...
+[2025-11-19 17:14:12,695][INFO] Epoch 7 | LR: 0.000500 | Train Loss: 1.0458 | Val MAE: 1.3717 | Val Acc: 0.5935 | Val F1: 0.5682
+[2025-11-19 17:14:12,695][INFO] EarlyStopping counter: 1 out of 10
+[2025-11-19 17:14:15,001][INFO] Epoch 8 | LR: 0.000500 | Train Loss: 1.0268 | Val MAE: 1.3945 | Val Acc: 0.5701 | Val F1: 0.5649
+[2025-11-19 17:14:15,002][INFO] EarlyStopping counter: 2 out of 10
+[2025-11-19 17:14:17,064][INFO] Epoch 9 | LR: 0.000500 | Train Loss: 0.9910 | Val MAE: 1.3956 | Val Acc: 0.5701 | Val F1: 0.5638
+[2025-11-19 17:14:17,064][INFO] EarlyStopping counter: 3 out of 10
+[2025-11-19 17:14:19,019][INFO] Epoch 10 | LR: 0.000500 | Train Loss: 0.9609 | Val MAE: 1.4319 | Val Acc: 0.5701 | Val F1: 0.5694
+[2025-11-19 17:14:19,019][INFO] EarlyStopping counter: 4 out of 10
+[2025-11-19 17:14:21,010][INFO] Epoch 11 | LR: 0.000250 | Train Loss: 0.9371 | Val MAE: 1.4189 | Val Acc: 0.5514 | Val F1: 0.5390
+[2025-11-19 17:14:21,010][INFO] EarlyStopping counter: 5 out of 10
+[2025-11-19 17:14:23,099][INFO] Epoch 12 | LR: 0.000250 | Train Loss: 0.9242 | Val MAE: 1.4469 | Val Acc: 0.5701 | Val F1: 0.5612
+[2025-11-19 17:14:23,100][INFO] EarlyStopping counter: 6 out of 10
+[2025-11-19 17:14:25,304][INFO] Epoch 13 | LR: 0.000250 | Train Loss: 0.9115 | Val MAE: 1.4491 | Val Acc: 0.5654 | Val F1: 0.5557
+[2025-11-19 17:14:25,304][INFO] EarlyStopping counter: 7 out of 10
+[2025-11-19 17:14:27,436][INFO] Epoch 14 | LR: 0.000250 | Train Loss: 0.8982 | Val MAE: 1.4364 | Val Acc: 0.5701 | Val F1: 0.5625
+[2025-11-19 17:14:27,436][INFO] EarlyStopping counter: 8 out of 10
+[2025-11-19 17:14:29,465][INFO] Epoch 15 | LR: 0.000125 | Train Loss: 0.8710 | Val MAE: 1.4507 | Val Acc: 0.5841 | Val F1: 0.5806
+[2025-11-19 17:14:29,466][INFO] EarlyStopping counter: 9 out of 10
+[2025-11-19 17:14:31,480][INFO] Epoch 16 | LR: 0.000125 | Train Loss: 0.8732 | Val MAE: 1.4568 | Val Acc: 0.5654 | Val F1: 0.5584
+[2025-11-19 17:14:31,480][INFO] EarlyStopping counter: 10 out of 10
+[2025-11-19 17:14:31,481][INFO] Early stopping triggered.
+[2025-11-19 17:14:31,481][INFO] Training finished. Loading best model for testing...
+[2025-11-19 17:14:31,762][INFO] Test Results | MAE: 1.5538 | Acc: 0.4956 | F1: 0.4858

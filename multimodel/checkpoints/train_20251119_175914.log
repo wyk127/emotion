@@ -1,0 +1,49 @@
+[2025-11-19 17:59:14,715][INFO] Loading datasets...
+[2025-11-19 17:59:16,286][INFO] Label Stats | Mean: 0.2345 | Std: 1.5100
+[2025-11-19 17:59:16,286][INFO] Label Range | Min: -3.0000 | Max: 3.0000
+[2025-11-19 17:59:18,599][INFO] Start Training...
+[2025-11-19 17:59:20,100][INFO] Epoch 1 | LR: 0.001000 | Train Loss: 1.3149 | Val MAE: 1.3616 | Val Acc: 0.5794
+[2025-11-19 17:59:20,100][INFO] Validation loss decreased (inf --> 1.361608).  Saving model ...
+[2025-11-19 17:59:21,201][INFO] Epoch 2 | LR: 0.001000 | Train Loss: 1.1824 | Val MAE: 1.1925 | Val Acc: 0.6495
+[2025-11-19 17:59:21,201][INFO] Validation loss decreased (1.361608 --> 1.192534).  Saving model ...
+[2025-11-19 17:59:22,284][INFO] Epoch 3 | LR: 0.001000 | Train Loss: 1.0964 | Val MAE: 1.1889 | Val Acc: 0.6963
+[2025-11-19 17:59:22,286][INFO] Validation loss decreased (1.192534 --> 1.188859).  Saving model ...
+[2025-11-19 17:59:23,368][INFO] Epoch 4 | LR: 0.001000 | Train Loss: 1.0137 | Val MAE: 1.1506 | Val Acc: 0.7196
+[2025-11-19 17:59:23,368][INFO] Validation loss decreased (1.188859 --> 1.150617).  Saving model ...
+[2025-11-19 17:59:24,450][INFO] Epoch 5 | LR: 0.001000 | Train Loss: 0.9115 | Val MAE: 1.0608 | Val Acc: 0.7570
+[2025-11-19 17:59:24,451][INFO] Validation loss decreased (1.150617 --> 1.060778).  Saving model ...
+[2025-11-19 17:59:25,513][INFO] Epoch 6 | LR: 0.001000 | Train Loss: 0.8595 | Val MAE: 1.0760 | Val Acc: 0.6963
+[2025-11-19 17:59:26,560][INFO] Epoch 7 | LR: 0.001000 | Train Loss: 0.7990 | Val MAE: 1.0393 | Val Acc: 0.7336
+[2025-11-19 17:59:26,560][INFO] Validation loss decreased (1.060778 --> 1.039269).  Saving model ...
+[2025-11-19 17:59:27,666][INFO] Epoch 8 | LR: 0.001000 | Train Loss: 0.7655 | Val MAE: 1.0489 | Val Acc: 0.7150
+[2025-11-19 17:59:28,747][INFO] Epoch 9 | LR: 0.001000 | Train Loss: 0.7449 | Val MAE: 1.0433 | Val Acc: 0.7383
+[2025-11-19 17:59:29,796][INFO] Epoch 10 | LR: 0.001000 | Train Loss: 0.6975 | Val MAE: 1.0273 | Val Acc: 0.7150
+[2025-11-19 17:59:29,796][INFO] Validation loss decreased (1.039269 --> 1.027335).  Saving model ...
+[2025-11-19 17:59:30,875][INFO] Epoch 11 | LR: 0.001000 | Train Loss: 0.6659 | Val MAE: 0.9669 | Val Acc: 0.7617
+[2025-11-19 17:59:30,876][INFO] Validation loss decreased (1.027335 --> 0.966926).  Saving model ...
+[2025-11-19 17:59:31,977][INFO] Epoch 12 | LR: 0.001000 | Train Loss: 0.6208 | Val MAE: 0.9772 | Val Acc: 0.7664
+[2025-11-19 17:59:33,024][INFO] Epoch 13 | LR: 0.001000 | Train Loss: 0.5850 | Val MAE: 0.9632 | Val Acc: 0.7710
+[2025-11-19 17:59:33,025][INFO] Validation loss decreased (0.966926 --> 0.963165).  Saving model ...
+[2025-11-19 17:59:34,118][INFO] Epoch 14 | LR: 0.001000 | Train Loss: 0.5553 | Val MAE: 0.9561 | Val Acc: 0.7617
+[2025-11-19 17:59:34,118][INFO] Validation loss decreased (0.963165 --> 0.956088).  Saving model ...
+[2025-11-19 17:59:35,198][INFO] Epoch 15 | LR: 0.001000 | Train Loss: 0.5217 | Val MAE: 0.9545 | Val Acc: 0.7710
+[2025-11-19 17:59:35,198][INFO] Validation loss decreased (0.956088 --> 0.954508).  Saving model ...
+[2025-11-19 17:59:36,295][INFO] Epoch 16 | LR: 0.001000 | Train Loss: 0.5146 | Val MAE: 0.9996 | Val Acc: 0.7243
+[2025-11-19 17:59:37,355][INFO] Epoch 17 | LR: 0.001000 | Train Loss: 0.4984 | Val MAE: 0.9718 | Val Acc: 0.7897
+[2025-11-19 17:59:38,407][INFO] Epoch 18 | LR: 0.001000 | Train Loss: 0.4822 | Val MAE: 0.9440 | Val Acc: 0.7804
+[2025-11-19 17:59:38,407][INFO] Validation loss decreased (0.954508 --> 0.943979).  Saving model ...
+[2025-11-19 17:59:39,474][INFO] Epoch 19 | LR: 0.001000 | Train Loss: 0.4802 | Val MAE: 1.0121 | Val Acc: 0.7430
+[2025-11-19 17:59:40,552][INFO] Epoch 20 | LR: 0.001000 | Train Loss: 0.4489 | Val MAE: 0.9176 | Val Acc: 0.7804
+[2025-11-19 17:59:40,552][INFO] Validation loss decreased (0.943979 --> 0.917637).  Saving model ...
+[2025-11-19 17:59:41,625][INFO] Epoch 21 | LR: 0.001000 | Train Loss: 0.4283 | Val MAE: 1.0332 | Val Acc: 0.7196
+[2025-11-19 17:59:42,666][INFO] Epoch 22 | LR: 0.001000 | Train Loss: 0.4282 | Val MAE: 1.0040 | Val Acc: 0.7850
+[2025-11-19 17:59:43,728][INFO] Epoch 23 | LR: 0.001000 | Train Loss: 0.4212 | Val MAE: 0.9257 | Val Acc: 0.7850
+[2025-11-19 17:59:44,786][INFO] Epoch 24 | LR: 0.001000 | Train Loss: 0.3899 | Val MAE: 0.9338 | Val Acc: 0.7804
+[2025-11-19 17:59:45,836][INFO] Epoch 25 | LR: 0.001000 | Train Loss: 0.4038 | Val MAE: 0.9786 | Val Acc: 0.7944
+[2025-11-19 17:59:46,907][INFO] Epoch 26 | LR: 0.000500 | Train Loss: 0.3769 | Val MAE: 0.9785 | Val Acc: 0.7804
+[2025-11-19 17:59:47,984][INFO] Epoch 27 | LR: 0.000500 | Train Loss: 0.3408 | Val MAE: 0.9512 | Val Acc: 0.7570
+[2025-11-19 17:59:49,028][INFO] Epoch 28 | LR: 0.000500 | Train Loss: 0.3213 | Val MAE: 0.9551 | Val Acc: 0.7570
+[2025-11-19 17:59:50,090][INFO] Epoch 29 | LR: 0.000500 | Train Loss: 0.3194 | Val MAE: 0.9576 | Val Acc: 0.7617
+[2025-11-19 17:59:51,151][INFO] Epoch 30 | LR: 0.000500 | Train Loss: 0.3014 | Val MAE: 0.9711 | Val Acc: 0.7664
+[2025-11-19 17:59:51,151][INFO] Early stopping triggered.
+[2025-11-19 17:59:51,406][INFO] FINAL TEST RESULTS | MAE: 1.0858 | Acc: 0.7274 | F1: 0.7277

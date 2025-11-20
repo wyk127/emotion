@@ -1,0 +1,39 @@
+[2025-11-19 17:18:50,863][INFO] Loading and Normalizing datasets...
+[2025-11-19 17:18:54,366][INFO] Start Training...
+[2025-11-19 17:18:56,049][INFO] Epoch 1 | LR: 0.001000 | Train Loss: 1.3702 | Val MAE: 1.3775 | Val Acc: 0.6308
+[2025-11-19 17:18:56,049][INFO] Validation loss decreased (inf --> 1.377531).  Saving model ...
+[2025-11-19 17:18:57,461][INFO] Epoch 2 | LR: 0.001000 | Train Loss: 1.3077 | Val MAE: 1.3739 | Val Acc: 0.6308
+[2025-11-19 17:18:57,461][INFO] Validation loss decreased (1.377531 --> 1.373852).  Saving model ...
+[2025-11-19 17:18:59,116][INFO] Epoch 3 | LR: 0.001000 | Train Loss: 1.3133 | Val MAE: 1.3695 | Val Acc: 0.6308
+[2025-11-19 17:18:59,116][INFO] Validation loss decreased (1.373852 --> 1.369546).  Saving model ...
+[2025-11-19 17:19:00,720][INFO] Epoch 4 | LR: 0.001000 | Train Loss: 1.3331 | Val MAE: 1.4038 | Val Acc: 0.6449
+[2025-11-19 17:19:01,809][INFO] Epoch 5 | LR: 0.001000 | Train Loss: 1.3182 | Val MAE: 1.3756 | Val Acc: 0.6355
+[2025-11-19 17:19:03,002][INFO] Epoch 6 | LR: 0.001000 | Train Loss: 1.3159 | Val MAE: 1.3835 | Val Acc: 0.6308
+[2025-11-19 17:19:04,511][INFO] Epoch 7 | LR: 0.001000 | Train Loss: 1.3156 | Val MAE: 1.3724 | Val Acc: 0.6355
+[2025-11-19 17:19:05,601][INFO] Epoch 8 | LR: 0.001000 | Train Loss: 1.3091 | Val MAE: 1.3722 | Val Acc: 0.6355
+[2025-11-19 17:19:06,671][INFO] Epoch 9 | LR: 0.000500 | Train Loss: 1.3073 | Val MAE: 1.3800 | Val Acc: 0.6308
+[2025-11-19 17:19:07,910][INFO] Epoch 10 | LR: 0.000500 | Train Loss: 1.3100 | Val MAE: 1.3880 | Val Acc: 0.6355
+[2025-11-19 17:19:09,504][INFO] Epoch 11 | LR: 0.000500 | Train Loss: 1.3017 | Val MAE: 1.4141 | Val Acc: 0.5841
+[2025-11-19 17:19:10,833][INFO] Epoch 12 | LR: 0.000500 | Train Loss: 1.2897 | Val MAE: 1.3580 | Val Acc: 0.6355
+[2025-11-19 17:19:10,833][INFO] Validation loss decreased (1.369546 --> 1.358014).  Saving model ...
+[2025-11-19 17:19:12,277][INFO] Epoch 13 | LR: 0.000500 | Train Loss: 1.2585 | Val MAE: 1.3443 | Val Acc: 0.5935
+[2025-11-19 17:19:12,277][INFO] Validation loss decreased (1.358014 --> 1.344300).  Saving model ...
+[2025-11-19 17:19:13,599][INFO] Epoch 14 | LR: 0.000500 | Train Loss: 1.2132 | Val MAE: 1.3202 | Val Acc: 0.6262
+[2025-11-19 17:19:13,600][INFO] Validation loss decreased (1.344300 --> 1.320191).  Saving model ...
+[2025-11-19 17:19:15,075][INFO] Epoch 15 | LR: 0.000500 | Train Loss: 1.1632 | Val MAE: 1.3485 | Val Acc: 0.6121
+[2025-11-19 17:19:16,388][INFO] Epoch 16 | LR: 0.000500 | Train Loss: 1.1222 | Val MAE: 1.2964 | Val Acc: 0.6542
+[2025-11-19 17:19:16,388][INFO] Validation loss decreased (1.320191 --> 1.296423).  Saving model ...
+[2025-11-19 17:19:17,721][INFO] Epoch 17 | LR: 0.000500 | Train Loss: 1.0752 | Val MAE: 1.3443 | Val Acc: 0.6028
+[2025-11-19 17:19:19,150][INFO] Epoch 18 | LR: 0.000500 | Train Loss: 1.0753 | Val MAE: 1.2965 | Val Acc: 0.6495
+[2025-11-19 17:19:20,612][INFO] Epoch 19 | LR: 0.000500 | Train Loss: 1.0080 | Val MAE: 1.3492 | Val Acc: 0.6589
+[2025-11-19 17:19:21,974][INFO] Epoch 20 | LR: 0.000500 | Train Loss: 0.9882 | Val MAE: 1.3053 | Val Acc: 0.6636
+[2025-11-19 17:19:23,077][INFO] Epoch 21 | LR: 0.000500 | Train Loss: 0.9465 | Val MAE: 1.3429 | Val Acc: 0.6355
+[2025-11-19 17:19:24,411][INFO] Epoch 22 | LR: 0.000250 | Train Loss: 0.8498 | Val MAE: 1.3264 | Val Acc: 0.6262
+[2025-11-19 17:19:25,721][INFO] Epoch 23 | LR: 0.000250 | Train Loss: 0.8279 | Val MAE: 1.3459 | Val Acc: 0.6121
+[2025-11-19 17:19:27,069][INFO] Epoch 24 | LR: 0.000250 | Train Loss: 0.7727 | Val MAE: 1.3675 | Val Acc: 0.6215
+[2025-11-19 17:19:28,617][INFO] Epoch 25 | LR: 0.000250 | Train Loss: 0.7606 | Val MAE: 1.4362 | Val Acc: 0.6075
+[2025-11-19 17:19:30,047][INFO] Epoch 26 | LR: 0.000250 | Train Loss: 0.7174 | Val MAE: 1.4323 | Val Acc: 0.6121
+[2025-11-19 17:19:31,485][INFO] Epoch 27 | LR: 0.000125 | Train Loss: 0.6692 | Val MAE: 1.4758 | Val Acc: 0.6075
+[2025-11-19 17:19:33,000][INFO] Epoch 28 | LR: 0.000125 | Train Loss: 0.6359 | Val MAE: 1.4887 | Val Acc: 0.5981
+[2025-11-19 17:19:33,001][INFO] Early stopping triggered.
+[2025-11-19 17:19:33,296][INFO] FINAL TEST RESULTS | MAE: 1.5578 | Acc: 0.4971 | F1: 0.4798
